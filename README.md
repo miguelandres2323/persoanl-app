@@ -1,1 +1,1 @@
-# personal-app
+# persoanl-app
